@@ -13,7 +13,7 @@
     "modules_attachment": false,
     "dependencies": {
         "modules": ">=0.0.8",
-	"jquery": ">=2.0.0"
+	    "jquery": ">=1.7.1"
     },
     "description": "The jquery.couch.js file that is used by futon."
 }
